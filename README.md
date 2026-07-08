@@ -23,7 +23,6 @@ A full-stack AI-powered language translator that detects the language of any inp
 - [Challenges Solved](#-challenges-solved)
 - [Future Improvements](#-future-improvements)
 - [Contributing](#-contributing)
-- [License](#-license)
 - [Author](#-author)
 
 ---
