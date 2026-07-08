@@ -1,0 +1,42 @@
+<svg width="760" height="620" viewBox="0 0 760 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="heroTitle heroDesc">
+  <title id="heroTitle">AI translation dashboard illustration</title>
+  <desc id="heroDesc">A stylized SaaS translation workspace with language panels and AI indicators.</desc>
+  <rect x="92" y="62" width="576" height="446" rx="34" fill="#FFFFFF"/>
+  <rect x="92" y="62" width="576" height="446" rx="34" stroke="#E2E8F0" stroke-width="3"/>
+  <rect x="126" y="106" width="508" height="62" rx="16" fill="#F8FAFC"/>
+  <circle cx="158" cy="137" r="10" fill="#4F46E5"/>
+  <circle cx="188" cy="137" r="10" fill="#7C3AED"/>
+  <circle cx="218" cy="137" r="10" fill="#06B6D4"/>
+  <rect x="127" y="202" width="224" height="198" rx="18" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2"/>
+  <rect x="409" y="202" width="224" height="198" rx="18" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2"/>
+  <rect x="153" y="234" width="72" height="15" rx="7.5" fill="#4F46E5"/>
+  <rect x="435" y="234" width="72" height="15" rx="7.5" fill="#06B6D4"/>
+  <rect x="153" y="275" width="154" height="12" rx="6" fill="#CBD5E1"/>
+  <rect x="153" y="302" width="126" height="12" rx="6" fill="#CBD5E1"/>
+  <rect x="153" y="329" width="170" height="12" rx="6" fill="#CBD5E1"/>
+  <rect x="435" y="275" width="145" height="12" rx="6" fill="#CBD5E1"/>
+  <rect x="435" y="302" width="118" height="12" rx="6" fill="#CBD5E1"/>
+  <rect x="435" y="329" width="162" height="12" rx="6" fill="#CBD5E1"/>
+  <circle cx="380" cy="302" r="36" fill="url(#paint0_linear)"/>
+  <path d="M365 302H395M395 302L384 291M395 302L384 313" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="250" y="436" width="260" height="58" rx="18" fill="url(#paint1_linear)"/>
+  <path d="M334 465H426" stroke="white" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="106" cy="406" r="50" fill="#ECFEFF" stroke="#06B6D4" stroke-width="3"/>
+  <path d="M82 407H130M106 383V431M90 393C93 416 103 428 122 431M122 393C119 416 109 428 90 431" stroke="#06B6D4" stroke-width="5" stroke-linecap="round"/>
+  <rect x="579" y="393" width="104" height="104" rx="26" fill="#EEF2FF" stroke="#4F46E5" stroke-width="3"/>
+  <path d="M610 454L622 424H631L643 454H634.5L632.5 448H620.5L618.5 454H610ZM622.8 441.5H630.2L626.5 430.5L622.8 441.5Z" fill="#4F46E5"/>
+  <circle cx="613" cy="100" r="34" fill="#F5F3FF" stroke="#7C3AED" stroke-width="3"/>
+  <path d="M598 101H628M613 86V116M604 92C606 106 612 114 624 116M624 92C622 106 616 114 604 116" stroke="#7C3AED" stroke-width="4" stroke-linecap="round"/>
+  <path d="M74 542C164 501 272 514 365 541C463 570 566 579 686 527" stroke="#C7D2FE" stroke-width="10" stroke-linecap="round"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="344" y1="266" x2="416" y2="338" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4F46E5"/>
+      <stop offset="0.58" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear" x1="250" y1="436" x2="507" y2="505" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4F46E5"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+</svg>
